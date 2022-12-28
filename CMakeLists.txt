@@ -20,7 +20,7 @@ add_executable(aula-3 ${aula-3}/main.c ${aula-3}/avl.c ${aula-3}/avl.h )
 #add_executable(aula-4 ${aula-4}/main.c ${} ${}) // sem código
 add_executable(aula-5 ${aula-5}/main.c ${aula-5}/heap.c ${aula-5}/heap.h)
 add_executable(aula-6 ${aula-6}/min_heap.c ${aula-6}/max_heap.c)
-add_executable(aula-7 ${aula-7}/main.c ${} ${})
+#add_executable(aula-7 ${aula-7}/main.c ${} ${})
 add_executable(aula-8 ${aula-8}/main.c ${aula-8}/hash.c ${aula-8}/hash.h)
 add_executable(aula-9 ${aula-9}/main.c ${aula-9}/grafo.h ${aula-9}/grafo.c)
 add_executable(aula-10 ${aula-10}/main.c ${aula-10}/grafo.h ${aula-10}/grafo.c)
